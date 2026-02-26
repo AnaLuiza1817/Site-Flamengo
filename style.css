@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #4d0000;
+    background-color: #440000;
     color : white;
 }
 
@@ -9,7 +9,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     
-    background-color: #c70000;
+    background-color: #680000;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
     color: white;
