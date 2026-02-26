@@ -22,20 +22,36 @@ nav {
 #noticias {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+
+    background-color: #440000;
+    border-radius: 10px;
+
 }
 
 .noticia {
     margin: 10px;
     align-items: center;
 
-    background-color: #4d0000;
+    background-color: #680000;
     color: white;
     border: 5px solid #000000;
+     border-radius: 10px;
 
 }
 
 .img_noticia {
-    width: 400px;
+     border-radius: 10px;
+     width: 400px;
 
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+
+    background-color: #440000;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 
