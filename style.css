@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background-color: #4d0000;
+    color : white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    background-color: #c70000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: white;
+}
+
+#icon {
+    width: 65px;
+    height: 70px;
+}
+
+#noticia {
+    background-color: #4d0000;
+    color: white;
+    border: rgb(255, 255, 255) solid 20px;
+
+}
+
+.img_noticia {
+    width: 400px;
+
+}
+
