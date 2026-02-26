@@ -18,12 +18,19 @@ nav {
 #icon {
     width: 65px;
     height: 70px;
+} 
+#noticias {
+    display: flex;
+    justify-content: space-around;
 }
 
-#noticia {
+.noticia {
+    margin: 10px;
+    align-items: center;
+
     background-color: #4d0000;
     color: white;
-    border: rgb(255, 255, 255) solid 20px;
+    border: 5px solid #000000;
 
 }
 
